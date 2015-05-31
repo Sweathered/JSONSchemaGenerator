@@ -1,0 +1,11 @@
+{
+  "object": {
+    "String": "abcd",
+    "boolean": false,
+    "number": 2.1,
+    "array": [
+       "one",
+       "two"
+      ]
+  } 
+}
